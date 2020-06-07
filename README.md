@@ -2,3 +2,5 @@
  Pacman, agents, minimax.
  
  Files implemented: search.py ; searchAgents.py
+ 
+ ![](https://i.imgur.com/fsA1EOk.png)
